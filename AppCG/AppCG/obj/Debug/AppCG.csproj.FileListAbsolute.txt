@@ -1,0 +1,16 @@
+C:\Users\Lucas\Desktop\Trabalho CG\AppCG\AppCG\bin\Debug\AppCG.exe.config
+C:\Users\Lucas\Desktop\Trabalho CG\AppCG\AppCG\bin\Debug\AppCG.exe
+C:\Users\Lucas\Desktop\Trabalho CG\AppCG\AppCG\bin\Debug\AppCG.pdb
+C:\Users\Lucas\Desktop\Trabalho CG\AppCG\AppCG\obj\Debug\AppCG.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Trabalho CG\AppCG\AppCG\obj\Debug\AppCG.Form1.resources
+C:\Users\Lucas\Desktop\Trabalho CG\AppCG\AppCG\obj\Debug\AppCG.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Trabalho CG\AppCG\AppCG\obj\Debug\AppCG.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Trabalho CG\AppCG\AppCG\obj\Debug\AppCG.exe
+C:\Users\Lucas\Desktop\Trabalho CG\AppCG\AppCG\obj\Debug\AppCG.pdb
+C:\Users\Lucas\Desktop\Trabalho CG\AppCG\AppCG\obj\Debug\AppCG.FormTonsCinza.resources
+C:\Users\Lucas\Desktop\Trabalho CG\AppCG\AppCG\obj\Debug\AppCG.FormReducaoCores.resources
+C:\Users\Lucas\Desktop\Trabalho CG\AppCG\AppCG\obj\Debug\AppCG.FormChromaKey.resources
+C:\Users\Lucas\Desktop\Trabalho CG\AppCG\AppCG\obj\Debug\AppCG.FormFiltro.resources
+C:\Users\Lucas\Dropbox\Faculdade\9 periodo\Topicos Especiais - Computação Grafica\2 trimestre\Trabalho CG\AppCG\AppCG\bin\Debug\AppCG.exe.config
+C:\Users\Lucas\Dropbox\Faculdade\9 periodo\Topicos Especiais - Computação Grafica\2 trimestre\Trabalho CG\AppCG\AppCG\obj\Debug\AppCG.exe
+C:\Users\Lucas\Dropbox\Faculdade\9 periodo\Topicos Especiais - Computação Grafica\2 trimestre\Trabalho CG\AppCG\AppCG\obj\Debug\AppCG.pdb
